@@ -1,0 +1,584 @@
+@media (min-width: 992px) and (max-width: 1199px){
+    .container{
+        padding: 0 40px;
+    }
+
+    .inner-hd{
+        font-size: 16px;
+    }  
+
+    .sec-top{
+        width: 90%;
+    }
+
+    /* header start */    
+    .logo-block{
+        margin: 0 150px 0 0;
+    }
+
+    .menu-list{
+        margin: 0 55px 0 0;
+    }
+
+    .menu-item{
+        font-size: 14px;
+    }
+    /* header end */
+
+    /* banner start   */
+    .banner-bg{
+        padding: 180px 0;
+    }
+    /* banner end */
+    
+    /* welcome start */
+    .welcome{
+        padding: 100px 0 0;
+    }
+    /* welcome end */
+
+    /* our service start */
+    .our-service{
+        padding: 100px 0;
+    }
+
+    .our-service-block{
+        flex-direction: column;
+    }
+
+    .our-service-gallery{
+        margin: 0 0 60px;
+    }    
+    /* our service end */ 
+
+    /* team start */
+    .team{
+        padding: 100px 0;
+    }
+
+    .team-inner-block{
+        padding: 50px 25px;
+    }
+    /* team end */     
+    
+    /* footer start */
+    footer{
+        padding: 100px 0;
+    }
+
+    form{
+        margin: 0 0 80px;
+    }
+
+    .right{
+        width: 57%;
+    }    
+    /* footer end */
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+    .container{
+        padding: 0 30px;
+    }
+
+    .sec-hd{
+        font-size: 30px;
+        margin: 0 0 30px;
+    }
+
+    .inner-hd{
+        font-size: 16px;
+    }
+
+    .ctn{
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .sec-top{
+        width: 80%;
+    }
+
+    .we-offer{
+        font-size: 16px;
+        margin: 0 0 10px;
+    }
+
+    /* header start */
+    .logo-block{
+        margin: 0 80px 0 0;
+    }
+
+    .menu-list{
+        margin: 0 25px 0 0;
+    }
+
+    .menu-item{
+        font-size: 14px;
+    }
+
+    .search-icon{
+        margin: 0 0 0 50px;
+    }
+    /* header end */
+
+    /* banner start */
+    .banner-bg{
+        padding: 150px 0;
+    }
+
+    .banner-inner{
+        flex-basis: 100%;
+    }
+
+    .banner-hd{
+        font-size: 50px;
+        margin: 0 0 25px;
+    }
+
+    .banner-ctn{
+        padding: 0 30px;
+        margin: 0 0 50px;
+    }
+    /* banner end */
+
+    /* welcome start */
+    .welcome{
+        padding: 75px 0 0;
+    }
+
+    .welcome-bottom{
+        flex-wrap: wrap;
+    }
+
+    .welcome-inner{
+        flex-basis: 50%;
+        margin: 0 0 50px;
+    }
+    /* welcome end */
+
+    /* our service start */
+    .our-service{
+        padding: 25px 0 75px;
+    }
+
+    .our-service-block{
+        flex-direction: column;
+    }
+
+    .our-service-gallery{
+        margin: 0 0 50px;
+    }
+
+    .our-service-inner{
+        padding: 0 100px;
+    }
+
+    .service-inner-block{
+        margin: 0 0 50px;
+    }
+    /* our service end */
+
+    /* clients start */
+    .clients-bg{
+        padding: 75px 0 25px;
+    }
+
+    .clients-block{
+        flex-wrap: wrap;
+    }
+
+    .clients-inner{
+        flex-basis: 50%;
+        margin: 0 0 50px;
+    }
+
+    .clients-hd{
+        font-size: 20px;
+        margin: 0 0 15px;
+    }
+
+    .clients-no{
+        font-size: 35px;
+    }
+    /* clients end */
+
+    /* offer start */
+    .offering{
+        padding: 75px 0 35px;
+    }
+
+    .offer-inner{
+        flex-basis: 50%;
+        margin: 0 0 40px;
+    }
+
+    .off-inner-hd{
+        font-size: 18px;
+    }
+    /* offer end */
+
+    /* project start */
+    /* project end */
+
+    /* team start */
+    .team{
+        padding: 75px 0 0;
+    }
+
+    .team-bottom{
+        flex-wrap: wrap;
+    }
+
+    .team-inner{
+        margin: 0 0 50px;
+    }      
+
+    .social-icon{
+        justify-content: center;
+    }    
+    /* team end */
+
+    /* testimonials start */
+    .testimonials-inner-block{
+        padding: 60px;
+    }
+
+    .client-name{
+        margin: 0 0 30px;
+    }
+    /* testimonials end */
+
+    /* world start */
+    .world{
+        padding: 75px 0 0;
+    }    
+    /* world end */
+
+    /* footer start */
+    footer{
+        padding: 75px 0;
+    }
+
+    .foot-hd{
+        font-size: 20px;
+        margin: 0 0 30px;
+    }
+
+    form{
+        margin: 0 0 50px;
+    }
+
+    .foot-email{
+        min-width: 250px;
+        font-size: 14px;
+    }
+
+    .foot-sub{
+        min-width: 150px;
+        font-size: 16px;
+        margin: 0 0 0 -40px;
+    }
+
+    .right{
+        width: 74%;
+    }
+    /* footer end */
+
+}
+
+@media (min-width: 320px) and (max-width: 767px){
+    .container{
+        padding: 0 15px;
+    }
+
+    .sec-hd{
+        font-size: 26px;
+        margin: 0 0 20px;
+    }
+
+    .inner-hd{
+        font-size: 16px;
+    }
+
+    .ctn{
+        font-size: 12px;
+        line-height: 22px;
+    }
+
+    .sec-top{
+        width: 100%;
+    }
+
+    .we-offer{
+        font-size: 14px;
+        margin: 0 0 10px;
+    }
+
+    /* header start */
+    .header-top-inner{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .header-bottom-inner{
+        flex-direction: column;
+    }
+
+    .logo-block{
+        margin: 0 0 20px;
+    }
+
+    .menu{
+        flex-direction: column;
+        margin: 0 0 20px;
+    }
+
+    .menu-list{
+        margin: 0 0 10px;
+    }
+
+    .menu-item{
+        font-size: 12px;
+    }
+
+    .search-icon{
+        margin: 0;
+    }
+    /* header end */
+
+    /* banner start */
+    .banner-bg{
+        padding: 100px 0;
+    }
+
+    .banner-inner{
+        flex-basis: 100%;
+    }
+
+    .banner-hd{
+        font-size: 30px;
+        margin: 0 0 20px;
+    }
+
+    .banner-ctn{
+        font-size: 14px;
+        padding: 0;
+        margin: 0 0 25px;
+    }
+
+    .banner-btn{
+        font-size: 12px;
+        padding: 10px 20px;
+    }
+    /* banner end */
+
+    /* welcome start */
+    .welcome{
+        padding: 50px 0 0;
+    }
+
+    .welcome-bottom{
+        flex-direction: column;
+    }
+
+    .welcome-inner{
+        margin: 0 0 50px;
+    }
+
+    .welcome-inner-block{
+        padding: 50px 35px;
+    }
+
+    .wel-ylw-gallery{
+        margin: 0 auto 30px;
+    }
+
+    .wel-white-gallery{
+        margin: 0 auto 30px;
+    }
+
+    .wel-hd{
+        margin: 0 0 10px;
+    }
+    /* welcome end */
+
+    /* our service start */
+    .our-service{
+        padding: 0 0 50px;
+        text-align: center;
+    }
+
+    .our-service-block{
+        flex-direction: column;
+    }
+
+    .our-service-gallery{
+        margin: 0 0 50px;
+    }
+
+    .our-service-inner{
+        padding: 0 15px;
+    }
+    
+    .service-hd{
+        margin: 0 0 30px;
+    }
+
+    .service-inner-block{
+        flex-direction: column;
+        margin: 0 0 50px;
+    }
+
+    .service-inner-icon{
+        margin: 0 auto 20px;
+    }
+
+    .service-inner-content{
+        padding: 0;
+    }
+    /* our service end */
+
+    /* clients start */
+    .clients-bg{
+        padding: 50px 0 20px;
+    }
+
+    .clients-block{
+        flex-direction: column;
+    }
+
+    .clients-inner{
+        margin: 0 0 40px;
+    }
+
+    .clients-hd{
+        font-size: 18px;
+        margin: 0 0 10px;
+    }
+
+    .clients-no{
+        font-size: 30px;
+    }
+    /* clients end */
+
+    /* offering start */
+    .offering{
+        padding: 50px 0 0;
+    }
+
+    .offer-bottom{
+        flex-direction: column;
+    }
+
+    .offer-inner{
+        margin: 0 0 50px;
+    }
+
+    .off-inner-hd{
+        font-size: 18px;
+    }
+    /* offering end */
+
+    /* project start */
+    /* project end */
+
+    /* team start */
+    .team{
+        padding: 50px 0 0;
+    }
+
+    .team-bottom{
+        flex-direction: column;
+    }
+
+    .team-inner{
+        margin: 0 0 50px;
+    }
+
+    .team-in-inner{
+        flex-basis: 100%;
+    }
+    /* team end */
+
+    /* testimonials start */
+    .testimonials{
+        padding: 50px 0;
+    }
+    
+    .testimonials-inner{
+        flex-basis: 100%;
+    }
+
+    .testimonials-inner-block{
+        padding: 30px;
+    }
+
+    .client-name{
+        justify-content: space-around;
+        margin: 0 0 25px;
+    }
+
+    .clients-detail{
+        margin: 0;
+    }
+
+    .john{
+        font-size: 16px;
+        margin: 0;
+    }
+
+    .john-desic{
+        font-size: 12px;
+    }    
+
+    .star-list{
+        margin: 0 5px 0 0;
+    }
+    /* testimonials end */
+
+    /* world start */
+    .world{
+        padding: 50px 0 0;
+    }
+
+    .world-bottom{
+        flex-direction: column;
+    }
+
+    .world-ylw-inner{
+        margin: 0 0 50px;
+    }
+    /* world end  */
+
+    /* footer start */
+    footer{
+        padding: 50px 0;
+    }
+
+    .foot-hd{
+        font-size: 18px;
+        margin: 0 0 25px;
+    }
+
+    form{
+        margin: 0 0 50px;
+    }
+
+    .foot-email{
+        min-width: 100px;
+        font-size: 12px;
+        padding: 10px 15px;
+    }
+
+    .foot-sub{
+        min-width: 50px;
+        margin: 0 0 0 -35px;
+    }
+
+    .right{
+        width: 100%;
+        font-size: 10px;
+    }
+    /* footer end */
+}
