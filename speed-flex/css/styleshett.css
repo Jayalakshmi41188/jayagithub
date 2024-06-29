@@ -1,0 +1,50 @@
+:root{
+    --primary: #fff;
+    --secondary: #030302;
+    --half-white: #c0c0c0;
+    --red: #ff3d00;
+    --blue: #032941;
+    --grey: #7b7b7b;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+ul li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.container{
+    max-width: 1170px;
+    width: 100%;
+    margin: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.pr{
+    position: relative;
+}
+
+.pa{
+    position: absolute;
+}
+
+.speed-hd{
+    font-size: 70px;
+    color: var(--blue);
+    text-transform: capitalize;
+}
+
+/* header-start */
+header{
+    padding: 35px 0;
+    background-color: var(--blue);
+}
+/* header-end */

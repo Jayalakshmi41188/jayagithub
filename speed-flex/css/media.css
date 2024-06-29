@@ -1,0 +1,506 @@
+@media (min-width: 992px) and (max-width: 1199px){
+    .container{
+        padding: 0 40px;
+    } 
+    
+    .facility-in-ctn{
+        width: 100%;       
+    }
+
+    .finish-inner-block{
+        width: 100%;
+    }
+
+    .fest-hd{        
+        width: 60%;       
+    } 
+
+    .join-bg{
+        height: 380px;
+    }
+    
+    .join-inner{
+        padding: 100px 30px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+    .container{
+        padding: 0 30px;
+    }
+
+    .speed-hd{
+        font-size: 30px;
+    }
+
+    .speed-ctn{
+        font-size: 12px;
+        line-height: 22px;
+    }
+
+    .inner-hd{
+        font-size: 20px;
+        margin: 0 0 20px;
+    }
+
+    .facility-in-ctn{
+        width: 100%;
+        margin: 0 0 20px;
+    }
+
+    /* header-start */
+    header{
+        padding: 20px 0;
+    }
+
+    .menu-list{
+        margin: 0;
+    }
+    /* header-end */
+
+    /* banner-start */
+    .banner-bg{
+        padding: 40px 0;
+    }
+
+    .banner-hd{
+        font-size: 35px;
+        line-height: 45px;
+        margin: 0 0 25px;
+    }
+
+    .banner-ctn{
+        margin: 0 0 35px;
+    }
+
+    .btn{
+        font-size: 12px;
+        padding: 8px 20px;
+    }
+    /* banner-end */
+
+    /* sponsors-start */
+    .sponsors{
+        padding: 40px 0;
+    }
+
+    .sponsors-hd{
+        margin: 0 0 25px;
+    }
+
+    .sponsors-bottom{
+        padding: 15px 0 0;
+    }
+
+    .sponsors-inner{
+        flex-wrap: wrap;
+    }
+
+    .sponsors-list{
+        flex-basis: 50%;
+        margin: 0 0 30px;
+    }    
+    /* sponsors-end */
+
+    /* facilities-start */
+    .facilities{
+        padding: 40px 0 20px;
+    }
+
+    .facilities-top{
+        width: 100%;
+        margin: 0 0 25px;
+    }
+
+    .facility-hd{
+        margin: 0 0 15px;
+    }
+
+    .facilities-bottom{
+        flex-wrap: wrap;
+    }
+
+    .facility-inner{
+        flex-basis: 50%;
+        margin: 0 0 40px;
+    }
+
+    .facility-in-ctn{
+        width: 100%;
+        margin: 0 0 15px;
+    }
+
+    .read{
+        font-size: 12px;
+    }
+    /* facilities-end */
+
+    /* festival-start */
+    .festival{
+        padding: 40px 0;
+    }
+
+    .festival-top{          
+        margin: 0 0 25px;
+    }
+
+    .fest-hd{
+        width: 60%;
+        margin: 0 auto 15px;
+    }
+
+    .fest-ctn{       
+        padding: 0 70px;
+    }
+
+    .festival-bottom{        
+        padding: 60px 0;
+    }
+
+    .play{
+        width: 25%;
+    }
+    /* festival-end */
+
+    /* finish-start */
+    .finish-line{
+        padding: 40px 0;
+    }
+
+    .finish-inner-block{
+       padding: 0 45px;
+    }
+    /* finish-end */
+
+    /* events-start */
+    .events{
+        padding: 40px 0;
+    }
+    /* events-end */
+
+    /* join-start */
+    .join-bg{
+        width: 90%;
+        height: 305px;
+    }    
+
+    .join-inner{
+        padding: 75px 30px;
+    }    
+    /* join-end */
+
+    /* footer-start */
+    .foot-border{
+        padding: 40px 0;
+    }
+
+    .foot-logo{
+        width: 100%;
+    }
+
+    .foot-speed{
+        margin: 0 0 15px;
+    }
+
+    .foot-ctn{
+        margin: 0 0 15px;
+    }
+
+    .foot-head{
+        font-size: 13px;
+        margin: 5px 0 20px;
+    }
+
+    .foot-list{
+        margin: 0 0 10px;
+    }
+
+    .foot-item{
+        font-size: 12px;
+    }
+
+    .mail{
+        padding: 8px 10px;
+    }
+    /* footer-end */
+
+}
+
+@media (min-width: 320px) and (max-width: 767px){
+    .container{ 
+        padding: 0 15px;
+    }
+
+    .speed-hd{
+        font-size: 20px;        
+    }
+
+    .speed-ctn{
+        font-size: 12px;
+        line-height: 22px;
+    }
+
+    .inner-hd{
+        font-size: 18px;
+        margin: 0 0 15px;
+    }
+    /* header-start */
+    .head-block{
+        flex-direction: column;
+        align-items: normal;
+    }
+
+    .logo-block{
+        align-items: center;
+    }
+
+    .menu-block{
+        flex-direction: column;
+        align-items: end;
+    }
+    /* header-end */
+
+    /* banner-start */
+    .banner-bg{
+        padding: 30px 0;
+    }
+
+    .banner-block{
+        width: 100%;
+    }
+
+    .banner-hd{
+        font-size: 25px;
+        line-height: 35px;
+        margin: 0 0 35px;
+    }
+
+    .banner-ctn{
+        margin: 0 0 40px;
+    }
+
+    .banner-btn{
+        font-size: 12px;
+        padding: 10px 20px;
+    }
+    /* banner-end */
+
+    /* sponsors-start */
+    .sponsors{
+        padding: 30px 0;
+    }
+
+    .sponsors-hd{
+        margin: 0 0 35px;
+    }
+
+    .sponsors-bottom{
+        padding: 20px 0;
+    }
+
+    .sponsors-inner{
+        flex-direction: column;
+    }
+
+    .sponsors-list{
+        margin: 0 0 20px;
+    }
+
+    .logos{
+        width: 50%;
+    }
+    /* sponsors-end */
+
+    /* facilities-start */
+    .facilities{
+        padding: 30px 0;
+    }
+
+    .facilities-top{
+        width: 100%;
+        margin: 0 0 50px;
+    }
+
+    .facility-hd{
+        margin: 0 0 35px;
+    }
+
+    .facilities-bottom{
+        flex-direction: column;
+    }
+
+    .facility-inner{
+        margin: 0 0 50px;
+    }
+    
+    .facility-in-ctn{
+        width: 70%;
+        margin: 0 0 15px;
+    }
+
+    .read{
+        font-size: 12px;
+    }
+    /* facilities-end */
+
+    /* festival-start */
+    .festival{
+        padding: 30px 0;
+    }
+
+    .festival-top{            
+        margin: 0 0 50px;
+    }
+
+    .fest-hd{
+        width: 100%;
+        margin: 0 0 25px;
+    }
+
+    .fest-ctn{
+        width: 100%;
+        padding: 0;
+    }
+
+    .festival-bottom{
+        padding: 50px 0;
+    }
+
+    .play{
+        width: 15%;
+    }
+    /* festival-end */
+
+    /* finish-start */
+    .finish-line{
+        padding: 30px 0;
+    }
+
+    .finish-block{
+        flex-direction: column;
+    }
+
+    .finish-gallery{
+        display: flex;
+        justify-content: center;
+    }
+
+    .run-man{
+        width: 80%;
+    }
+
+    .finish-inner-block{
+        padding: 0;
+    }
+
+    .finish-hd{
+        margin: 0 0 20px;
+    }
+    
+    .finish-ctn{
+        margin: 0 0 20px;
+    }
+    /* finish-end */
+
+    /* events-start */
+    .events{
+        padding: 30px 0;
+    }
+
+    .events-block{
+        flex-direction: column;
+    }
+
+    .events-inner{
+        margin: 0 0 50px;
+    }
+
+    .events-hd{
+        width: 70%;
+        margin: 0 0 20px;
+    }
+
+    .events-ctn {
+        width: 100%;
+        margin: 0 0 20px;
+    }
+
+    .even-time-hd{
+        font-size: 16px;
+    }
+
+    .timing{
+        font-size: 14px;
+    }
+    /* events-end */
+
+    /* join-start */
+    .join-bg{
+        width: 100%;
+        height: 330px;
+    }    
+
+    .join-inner{
+        padding: 20px;
+    }
+
+    .join-hd{
+        width: 100%;
+        margin: 0 0 20px;
+    }
+
+    .join-gallery{
+       left: 50%;
+       bottom: 0;
+       transform: translate(-50%,0);            
+    }
+
+    .join-man{
+        width: 100%;
+    }
+    /* join-end */
+
+    /* footer-start */
+    .foot-border{
+        padding: 30px 0 0;
+    }
+
+    .foot-block{
+        flex-direction: column;
+    }
+
+    .foot-inner{
+        margin: 0 0 30px;
+    }
+
+    .foot-speed{
+        margin: 0 0 10px;
+    }
+
+    .foot-ctn{
+        margin: 0 0 15px;
+    }
+
+    .foot-head{
+        margin: 0 0 20px;
+    }
+
+    .foot-list{
+        margin: 0 0 8px;
+    }
+
+    .mail{
+        width: 50%;
+        padding: 8px 15px;
+    }    
+
+    .copy{
+        padding: 8px 0;
+    }
+    
+    .copy-inner{
+        font-size: 10px;
+    }
+    /* footer-end */
+}
+
