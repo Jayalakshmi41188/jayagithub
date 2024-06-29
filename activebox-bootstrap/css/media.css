@@ -1,0 +1,236 @@
+@media (min-width: 768px) and (max-width: 991px){
+    /* banner-start */
+.banner-bg{
+    padding: 100px 0;
+}    
+.banner-inner{
+    padding: 0 50px;
+}
+
+.banner-head{
+    font-size: 50px;
+    line-height: 60px;
+    margin: 0 0 20px;
+}
+
+.banner-content{
+    font-size: 18px;
+    line-height: 28px;
+    margin: 0 0 35px;
+}
+    /* banner-end */
+
+    /* redicon-start */
+.redicons-gallery{
+    padding: 65px 0;
+} 
+
+.redicon-inner{
+    padding: 25px 0;
+}
+    /* redicon-end */
+
+    /* eight-projects-start */
+.eight-gallery{
+    width: 50%
+}
+
+.prj-content{
+    font-size: 12px;
+}
+    /* eight-projects-end */
+
+    /* founder-start */
+.founder{
+    padding: 80px 0 0;
+}
+
+.founder-inner{
+    margin: 0 0 50px;
+}
+    /* founder-end */
+
+    /* are u ready-start */
+.are-ready{
+    padding: 80px 0;
+}
+    /* are u ready-end */
+
+    /* aqua-start */
+.aqua{
+    padding: 50px 0;
+}
+
+.aqua-inner{
+    margin: 0 50px 50px;
+}
+    /* aqua-end */
+
+    /* yellow-part-start */
+.yellow-head{
+    margin: 0 71px 20px;
+}
+
+.squ-box{
+    margin: 0 0 20px;
+}
+    /* yellow-part-end */
+
+    /* grey-black-start */
+.grey-box{
+    width: 50%;
+    margin: 0 0 20px;
+}
+
+.black-box{
+    width: 50%;
+    margin: 0 0 20px;
+}
+    /* grey-black-end */
+
+    /* location-start */
+.location{
+    padding: 50px 0;
+}
+
+.location-content{
+    padding: 0;
+}
+    /* location-end */
+}
+
+
+
+@media (min-width: 320px) and (max-width: 767px){
+    /* banner-start */
+.banner-bg{
+    padding: 80px 0;
+}    
+.banner-inner{
+    padding: 0;
+}
+
+.banner-head{
+    font-size: 25px;
+    line-height: 35px;
+    margin: 0 0 15px;
+}
+
+.banner-content{
+    font-size: 12px;
+    line-height: 22px;
+    margin: 0 0 30px;
+}
+
+.banner-button{    
+    padding: 7px 30px;
+}
+    /* banner-end */
+
+    /* redicon-start */
+.redicons-gallery{
+    padding: 45px 0;
+}
+
+.redicon-inner{
+    padding: 20px 0;
+}
+
+    /* redicon-end */
+
+    /* eight-projects-start */
+.eight-gallery{
+    width: 100%;
+}
+    /* eight-projects-end */
+
+    /* founder-start */
+
+.founder{
+    padding: 80px 0 0;
+}
+
+.founder-inner{
+    margin: 0 15px 50px;
+}
+    /* founder-end */
+
+    /* are u ready-start */
+.are-ready{
+    padding: 50px 0;
+}
+
+.ready-head{
+    font-size: 20px; 
+    line-height: 28px;   
+}
+
+.ready-content{
+    font-size: 12px;       
+}
+
+.ready-button{
+    padding: 10px 40px;
+}
+    /* are u ready-end */
+
+    /* aqua-start */
+.aqua{
+    padding: 50px 0;
+}
+
+.aqua-inner{  
+    margin: 30px;  
+}
+    /* aqua-end */
+
+    /* yellow-part */
+.yellow-part{
+    padding: 80px 0;
+}
+
+.yellowpart-inner{
+    margin: 0 0 20px;
+}
+
+.yellow-icon{
+    margin: 0 auto 10px;
+}
+
+.yellow-head{
+    margin: 0 55px 20px;
+}
+
+.squ-box{
+    margin: 0 0 20px;
+}
+    /* yellow-end */
+
+    /* grey-blackbox-start */
+.grey-box{
+    width: 100%;
+}
+
+.black-box{
+    width: 100%;
+}
+    /* grey-blackbox-end */
+
+    /* location-start */
+.location{
+    padding: 80px 0;
+}
+
+.location-head{
+    margin: 0 0 15px;
+}
+
+.mq-style{
+    margin: 0 0 40px;
+}
+
+.mq-icon{
+    margin: 0 0 40px;
+}    
+/* location-end */
+}
