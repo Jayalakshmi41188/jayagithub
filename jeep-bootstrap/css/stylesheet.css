@@ -1,0 +1,312 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;300;400;500;600;700;800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+    color: var(--bs-white);
+}
+
+a:hover {
+    color: var(--bs-yellow);
+}
+
+.button-sample{
+    font-size: 0.875rem;
+    padding: 0.35rem 2rem;
+    border-radius: 3rem;
+}
+
+/* header start */
+header{
+    background: url("../images/header-bg.jpg") no-repeat 0 0;
+    background-size: 100% 100%;
+}
+
+header .navbar{
+    padding: 1.3125rem 0 0;
+}
+
+header .container-fluid{
+    padding: 0;
+}
+
+header .navbar-brand{
+    flex-grow: 1;
+}
+
+header .nav-link{
+    color: var(--bs-white); 
+}
+
+header .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 0.625rem;
+    padding-left: 0.625rem;
+}
+
+header .nav-link:focus, .nav-link:hover, .nav-link.active {
+    color: var(--bs-yellow);
+}
+
+.hd-button-sample{
+    font-size: 0.875rem;
+    padding: 0.35rem 2rem;
+    border-radius: 3rem;
+}
+
+/* banner start */
+.banner{
+    padding: 3.125rem 0;
+}
+
+.banner .slider-wrapper{
+    background: transparent;
+}
+
+.banner-hd{
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+.banner-ctn{
+    font-size: 1rem;
+    margin-bottom: 2.3rem;
+}
+/* banner end */
+/* header end */
+
+
+/* about us start */
+.about{
+    color: var(--bs-dark);
+    padding: 3.125rem 0;
+}
+
+.about-block{
+    margin-bottom: 3.125rem;
+}
+
+.style{
+    color: var(--bs-yellow);
+}
+
+.about-ctn{    
+    margin-bottom: 2rem;
+}
+
+.about-bottom-block{
+    margin-top: 3.125rem;
+}
+
+.about-bottom{
+    margin-right: 1.5rem;
+}
+
+.about-icon{
+    padding: 1.5rem 1.3rem;
+    background-color: var(--bs-white);
+    border-radius: 100%;
+    box-shadow: 0 0 5px 0 #d6d5d5;
+}
+/* about us end */
+
+/* Vehicle start */
+.vehicle{
+    padding: 3.125rem 0;
+}
+
+.vehicle-top{
+    margin-bottom: 3rem;
+}
+
+.vehicle-bottom{
+    margin-bottom: 3rem;
+}
+
+.inner-hd{
+    font-size: 2rem;
+    font-weight: 500;
+    margin-bottom: 1rem;
+}
+
+.inner-ctn{
+    font-size: 1rem;
+    color: var(--bs-gray);
+}
+
+.inner-price{
+    color: var(--bs-yellow);
+    margin-bottom: 1rem;
+}
+
+.inner-price img{
+    vertical-align: 0%;
+}
+
+.price{
+    font-size: 2rem;
+}
+/* Vehicle end */
+
+/* gallery start */
+.gallery{
+    padding: 3.125rem 0;
+    color: var(--bs-dark);
+}
+
+.gallery .nav-link {
+    color: #91908c;
+}
+
+.gallery .nav-link:hover, .gallery .nav-link:focus, .gallery .nav-link.active {
+    color: var(--bs-yellow);
+}
+
+.gallery ul{
+    padding-inline-start: 0px;
+}
+
+.gallery ul li{
+    list-style: none;
+}
+
+.gallery-jeep{
+    width: 100%;
+}
+
+.gallery-inner-hd{
+    color: var(--bs-white);
+}
+/* gallery end */
+
+/* schedule start */
+.schedule{
+    background: url("../images/foot-bg.png") no-repeat 0 0;
+    background-size: 100% 100%;
+    padding: 3.125rem 0;
+}
+
+.schedule-top{
+    margin-bottom: 2rem;
+}
+
+.schedule-hd{
+    margin-bottom: 1rem;
+}
+
+.schedule-ctn{
+    font-size: 1rem;
+    color: var(--bs-gray);
+}
+
+form{
+    background-color: var(--bs-dark);
+}
+ 
+.select-form{
+    border: 1px solid var(--bs-gray);
+    padding: 2rem 1rem;
+}
+
+.select-hd{
+    color: var(--bs-yellow);
+    margin-bottom: 1rem;
+}
+
+.schedule .form-check{
+    margin-bottom: 1rem;
+}
+
+form .form-check-input:checked {
+    background-color: var(--bs-yellow);
+    border-color: var(--bs-yellow);
+}
+
+form .form-check-input[type=checkbox] {
+    border-radius: 0;
+}
+
+form .form-check-input {
+    background-color: transparent;
+    border-color: var(--bs-gray);
+}
+
+form .form-check-label{
+    font-size: 1rem;
+    line-height: 1rem;
+}
+
+form .form-control, form .form-control:focus{
+    background-color: #2c2c36;
+    color: var(--bs-white);
+    border: 1px solid transparent;
+    box-shadow: none;
+}
+
+.contact-form{
+    padding: 2rem 1rem;
+    border: 1px solid var(--bs-gray);
+}
+
+.contact-hd{
+    color: var(--bs-yellow);
+    margin-bottom: 1rem;
+}
+
+.contact-inner{
+    margin-bottom: 1rem;
+}
+
+.contact-form .form-check{
+    margin-bottom: 3.125rem;
+}
+/* schedule end */
+
+/* footer start */
+footer{
+    background-color: #141219;
+    color: var(--bs-gray);
+    padding: 3.125rem 0;
+    /* padding: 6.25rem 0 0; */
+}
+
+.footer-inner{
+    margin-bottom: 3.125rem;
+}
+
+.phone-no{
+    text-decoration: none;
+    color: var(--bs-white);
+}
+
+.foot-inner-hd{
+    color: var(--bs-white);
+    margin-bottom: 1rem;
+}
+
+.foot-list{
+    list-style: none;
+    margin-bottom: 0.5rem;
+}
+
+.vehicle-name{
+    text-decoration: none;
+    color: var(--bs-gray);
+}
+
+.social-media .foot-list{
+    margin-right: 1rem;
+}
+
+address ul{
+    padding-inline-start: 0;
+}
+
+address ul li{
+    list-style: none;
+}
+/* footer end */
+/* copy start */
+.copy{
+    color: var(--bs-gray);
+    border-top: 1px solid var(--bs-gray);
+}
+/* copy end */
